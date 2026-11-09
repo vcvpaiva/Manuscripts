@@ -46,13 +46,6 @@ Some drafts I'm working on at the moment (in no particular order; all need work)
 Later: Torben's paper, FIL-formatted, Strange Loop note, Small Dialectica Note, Kolmogorov.
 
 
-## Quadrivium
-
-Quadrivium: a Curry–Howard Atlas is an open project, run with a group of students, that records logic by logic the four facets of the Curry–Howard–Lambek correspondence: the logic, its type theory, its algebras and its categories, together with how strong the connection between each pair of facets is. The atlas itself lives at https://vcvpaiva.github.io/quadrivium/, with its source at https://github.com/vcvpaiva/quadrivium. The lab notes below work out questions the atlas raises that are too large for a single entry.
-
-- [When is a logic algebraizable?](https://github.com/vcvpaiva/quadrivium/tree/main/docs/LabNotes) — why the linear fragments are not algebraizable in the original sense of Blok and Pigozzi while their intuitionistic counterparts are, and why order algebraizability is the notion closest to categorical semantics.
-- Hilbert algebras (in preparation) — what is known about the algebras of the implicational fragment of intuitionistic logic, and how they connect to its categorical models.
-
 
 ## Quadrivium
 
