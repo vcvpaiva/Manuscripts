@@ -8,6 +8,7 @@ Published papers that are hard to find, retyped with a short preface on notation
 
 * [The Dialectica Categories](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/DialecticaCategories1989.pdf), Valeria de Paiva. Contemporary Mathematics 92, AMS, 1989, pp. 47–62.
 * [A Dialectica-like Model of Linear Logic](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/DialecticaLikeModel1989.pdf), Valeria de Paiva. Category Theory and Computer Science, LNCS 389, Springer, 1989, pp. 341–356.
+* [A Dialectica Model of the Lambek Calculus](), Valeria de Paiva, Amsterdam Colloquium, pp. 445–461, 1991.
 
 Old preprints that disappeared from the web:
 * [Variations on Linear PCF](https://github.com/vcvpaiva/Manuscripts/blob/main/linearPCF.pdf), old preprint with Eike Ritter that 'disappeared' together with my Bham webpage.
