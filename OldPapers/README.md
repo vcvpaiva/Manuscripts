@@ -4,4 +4,4 @@
 
    * The Dialectica Categories. Contemporary Mathematics 92, AMS, 1989, pp. 47–62. [pdf](DialecticaCategories1989.pdf)
    * A Dialectica-like Model of Linear Logic. Category Theory and Computer Science, LNCS 389, Springer, 1989, pp. 341–356. [pdf](DialecticaLikeModel1989.pdf)
-   * A Dialectica Model of the Lambek Calculus. Amsterdam Colloquium 1991, pp. 445–461. [pdf]()
+   * A Dialectica Model of the Lambek Calculus. Amsterdam Colloquium 1991, pp. 445–461. [pdf](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/lambek-dialectica-ac1991%20(1).pdf)
