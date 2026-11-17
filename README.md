@@ -8,7 +8,7 @@ Published papers that are hard to find, retyped with a short preface on notation
 
 * [The Dialectica Categories](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/DialecticaCategories1989.pdf), Valeria de Paiva. Contemporary Mathematics 92, AMS, 1989, pp. 47–62.
 * [A Dialectica-like Model of Linear Logic](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/DialecticaLikeModel1989.pdf), Valeria de Paiva. Category Theory and Computer Science, LNCS 389, Springer, 1989, pp. 341–356.
-* [A Dialectica Model of the Lambek Calculus](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/lambek-dialectica-ac1991%20(1).pdf), Valeria de Paiva, Amsterdam Colloquium, pp. 445–461, 1991.
+* [A Dialectica Model of the Lambek Calculus](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/lambek-dialectica-ac1991.pdf), Valeria de Paiva, Amsterdam Colloquium, pp. 445–461, 1991.
 * [Categorical Multirelations, Linear Logic and Petri Nets](https://github.com/vcvpaiva/Manuscripts/blob/main/OldPapers/multirelations-TR225.pdf) (1991). Retyped and corrected from Cambridge Computer Laboratory Technical Report UCAM-CL-TR-225 ([original](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf))
   
 Old preprints that disappeared from the web:
