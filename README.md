@@ -16,6 +16,7 @@ Old preprints that disappeared from the web:
 * [On Linear Primitive Recursion](https://github.com/vcvpaiva/Manuscripts/blob/main/lpre.pdf), old preprint with Milly Maietti and Eike Ritter, circa 2000.
 * [Normalization Bounds for Rudimentary Linear Lambda calculus](https://github.com/vcvpaiva/Manuscripts/blob/main/MaiettiICC2002.pdf), Milly Maietti, Eike Ritter and de Paiva, ICC 2002.
 * [A Dialectica Model of State](https://github.com/vcvpaiva/Manuscripts/blob/main/A_dialectica_model_of_state-1.pdf), with Marcelo Correa and Hermann Hauesler, CATS 1996. The non-commutative version is [Linear logic model of state revisited](https://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf), Logic Journal of the IGPL 22 (5), 791-804, 2014. (both are used in the new note on polynomials below).
+* [Syntactic Multicategories and Categorical Combinators for Linear Logic]() (extended abstract), Eike Ritter and Valeria de Paiva, Computer Laboratory, University of Cambridge, 1993. Submitted to CTCS '93. As written, the multicategories are planar (no exchange); linear logic needs the symmetric version.
 
 ### Notes not intended for journals
 
