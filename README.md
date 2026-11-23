@@ -25,7 +25,7 @@ Some drafts I'm working on at the moment, grouped by subject; all need work. Com
 * [Fibrational Semantics for Coexisting Implications](https://github.com/vcvpaiva/DialecticaCategories/blob/master/Reverted_FibrationalSemanticsforILT-1.pdf),   Milly Maietti, Valeria de Paiva and Eike Ritter, original work from 2007. Padova [version](https://www.research.unipd.it/retrieve/e14fb267-69ab-3de1-e053-1705fe0ac030/modelilt.pdf), new version soon.
 
 **Mathematical communities.**
-* Mapping Category Theory: Growth, Community Structure, and Knowledge Flow, Eugenio Llanos, Julián Angarita, Wilmer Leal, and  Valeria de Paiva. Extended abstract, submitted to ACT 2026. First version presented at the Edinburgh BRICS Mathematics project, 2025.
+* [Mapping Category Theory: Growth, Community Structure, and Knowledge Flow](https://github.com/vcvpaiva/Manuscripts/blob/main/ACT_2026_Knowledge_flow-2.pdf), Eugenio Llanos, Julián Angarita, Wilmer Leal, and  Valeria de Paiva. Extended abstract, submitted to ACT 2026. First version presented at the Edinburgh BRICS Mathematics project, 2025.
 
 Later: Torben's paper, FIL-formatted, Strange Loop note, Small Dialectica Note, Kolmogorov.
 
